@@ -1,2 +1,2 @@
-# Prognozowanie cen samochodów
+# Prognozowanie cen samochodów-Podstawy analizy danych
 
